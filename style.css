@@ -86,3 +86,18 @@
     content: 'SEC';
 }
 
+.definitions{
+    width: 500px;
+    height: 180px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 60%);
+
+}
+#text{
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
