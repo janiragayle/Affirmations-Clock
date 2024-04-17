@@ -76,16 +76,6 @@
     transform: translate(-50%);
 }
 
-#hrs::after{
-    content: 'HOURS';
-}
-#min::after{
-    content: 'MINS';
-}
-#sec::after{
-    content: 'SEC';
-}
-
 .definitions{
     width: 500px;
     height: 180px;
